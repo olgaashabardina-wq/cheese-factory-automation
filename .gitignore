@@ -204,4 +204,14 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Secrets
+*.env
+config.json
+*.log
 __marimo__/
